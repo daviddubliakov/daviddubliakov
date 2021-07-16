@@ -9,8 +9,8 @@
 
 - ⚡ Fun fact: My nickname is Dato, cuz my grandad called me that way as I was a kid (He didn't liked a fact that David is a Jewish one).
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daviddubliakovj&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/daviddubliakov/)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddubliakovj&theme=dark&hide=jupyter%20notebook,php,vue,html,css,go&langs_count=8&layout=compact)](https://github.com/daviddubliakov/)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daviddubliakov&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/daviddubliakov/)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddubliakov&theme=dark&hide=jupyter%20notebook,php,vue,html,css,go&langs_count=8&layout=compact)](https://github.com/daviddubliakov/)
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
