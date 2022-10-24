@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm David
 
-## I'm Middle Full-stack Developer
+## I'm Full-stack Developer
 
 - 💪 I like to write code
 - 🎉 I love boxing, playing football and fitness
