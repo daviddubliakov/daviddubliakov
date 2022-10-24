@@ -7,7 +7,7 @@
 - 🥅 I am constantly learning new technologies
 - 👯 I’m looking to collaborate on some React projects
 
-- ⚡ Fun fact: My nickname is Dato, cuz my grandad called me that way as I was a kid (He didn't liked a fact that David is a Jewish one).
+- ⚡ Fun fact: My nickname is Dato, cuz my grandad called me that way as I was a kid (He didn't like a fact that David is a Jewish one).
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daviddubliakov&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/daviddubliakov/)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddubliakov&theme=dark&hide=jupyter%20notebook,php,vue,html,css,go&langs_count=8&layout=compact)](https://github.com/daviddubliakov/)
