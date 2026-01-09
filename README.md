@@ -3,14 +3,8 @@
 ## I'm Full-stack Developer
 
 - 💪 I like to write code
-- 🎉 I love boxing, playing football and fitness
 - 🥅 I am constantly learning new technologies
-- 👯 I’m looking to collaborate on some React projects
-
-- ⚡ Fun fact: My nickname is Dato, cuz my grandad called me that way as I was a kid (He didn't like a fact that David is a Jewish one).
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daviddubliakov&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/daviddubliakov/)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddubliakov&theme=dark&hide=jupyter%20notebook,php,vue,html,css,go&langs_count=8&layout=compact)](https://github.com/daviddubliakov/)
+- 👯 I’m looking to collaborate on some JS projects
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
@@ -32,5 +26,5 @@
 
 
 ### Connect with me:
-[![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/dava.dato/)
+[![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/davyd.dubliakov/)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-dubliakov-b1b075202/)
