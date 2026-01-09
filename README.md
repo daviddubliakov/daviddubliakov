@@ -54,6 +54,6 @@ feature delivery, and code quality.
 ---
 
 ### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/david-dubliakov-b1b075202/](https://www.linkedin.com/in/davyd-dubliakov-b1b075202/))
+[![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/davyd-dubliakov-b1b075202/)
 [![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/davyd.dubliakov/)
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/davyd_dubliakov)
